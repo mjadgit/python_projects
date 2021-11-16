@@ -2,9 +2,9 @@ from simple_salesforce import Salesforce
 import easygui as ui
 # import csv
 
-msg = "LMS Reporting.\nEnter LMS ID. Tool Returns Record ID"
-title = "LMS Record ID"
-fieldNames = ["LMS ID:"]
+msg = "Reporting.\nEnter LMS ID. Tool Returns Record ID"
+title = "Record ID"
+fieldNames = ["Reporting ID:"]
 fieldValue = []
 fieldValue = ui.multenterbox(msg, title, fieldNames)
 
