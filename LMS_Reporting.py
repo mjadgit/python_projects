@@ -2,7 +2,7 @@ from simple_salesforce import Salesforce
 import easygui as ui
 # import csv
 
-msg = "LMS Reporting.\nEnter Org1 LMS ID. Tool Returns Record ID"
+msg = "LMS Reporting.\nEnter LMS ID. Tool Returns Record ID"
 title = "LMS Record ID"
 fieldNames = ["LMS ID:"]
 fieldValue = []
