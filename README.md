@@ -1,5 +1,5 @@
 # python_projects
 
-Main repository for various python scripts and tools to solve varying business needs.
+Main repository for python scripts written to solve various business problems.
 
 -mjad
